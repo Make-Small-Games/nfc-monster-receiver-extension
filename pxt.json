@@ -1,0 +1,26 @@
+{
+    "name": "NFC Monster Receiver Extension",
+    "description": "Receive NFC monster sprites and metadata over radio in MakeCode Arcade.",
+    "dependencies": {
+        "device": "*",
+        "radio-broadcast": "*"
+    },
+    "files": [
+        "custom.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "main.ts",
+        "main.blocks",
+        "assets.json",
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.1.25",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
