@@ -1,5 +1,6 @@
 {
     "name": "NFC Monster Receiver Extension",
+    "version": "0.0.1",
     "description": "Receive NFC monster sprites and metadata over radio in MakeCode Arcade.",
     "dependencies": {
         "device": "*",
